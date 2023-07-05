@@ -1,0 +1,229 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "fullName": "Sam Thrasher",
+      "email": "sam@gmail.com"
+    },
+    {
+      "id": 2,
+      "fullName": "Casey Ferebee",
+      "email": "casey@gmail.com"
+    },
+    {
+      "id": 3,
+      "fullName": "Logan Welch",
+      "email": "logan@gmail.com"
+    },
+    {
+      "email": "briana@gmail.com",
+      "fullName": "Briana Phillips",
+      "id": 4
+    },
+    {
+      "email": "chicken@chicken.com",
+      "fullName": "Chicken Boy",
+      "id": 5
+    }
+  ],
+  "hens": [
+    {
+      "id": 1,
+      "userId": 3,
+      "breedId": 4,
+      "name": "Hennifer",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://www.rockinpfarmandfeed.com/uploads/1/3/0/9/130930792/s886377437450947052_p1339_i1_w1800.jpeg"
+    },
+    {
+      "id": 3,
+      "userId": 3,
+      "breedId": 7,
+      "name": "Princess Lay-a",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://www.myerspoultry.com/files/products/93/images/thumb/thumb_2BA.jpg"
+    },
+    {
+      "id": 4,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Hedwig",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": "https://i.imgur.com/RujbUni.jpg"
+    },
+    {
+      "id": 5,
+      "userId": 3,
+      "breedId": 6,
+      "name": "Henneth Paltrow",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://www.chickenfans.com/wp-content/uploads/2022/10/GreenQueen2-sm.png"
+    },
+    {
+      "id": 6,
+      "userId": 3,
+      "breedId": 6,
+      "name": "Selena Crowmez",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://www.chickenfans.com/wp-content/uploads/2022/10/GreenQueen2-sm.png"
+    },
+    {
+      "id": 7,
+      "userId": 3,
+      "breedId": 5,
+      "name": "Chickie Minaj",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://gilmoresinc.com/wp-content/uploads/2022/10/Golden-Laced-Wyandotte.jpg"
+    },
+    {
+      "id": 8,
+      "userId": 3,
+      "breedId": 2,
+      "name": "Muffy",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "This chicken be minding his business but he loud",
+      "henPhoto": "https://i.pinimg.com/originals/0b/bd/05/0bbd056af9deac493f833adfcefe93eb.jpg"
+    },
+    {
+      "id": 9,
+      "userId": 3,
+      "breedId": 7,
+      "name": "Rihenna",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://www.myerspoultry.com/files/products/93/images/thumb/thumb_2BA.jpg"
+    },
+    {
+      "id": 10,
+      "userId": 3,
+      "breedId": 9,
+      "name": "Crunchy",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://mranimalfarm.com/wp-content/uploads/2020/10/Barnevelder.jpg"
+    },
+    {
+      "id": 12,
+      "userId": 3,
+      "breedId": 3,
+      "name": "Maleficent",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://i0.wp.com/mainehomesteadmagazine.com/wp-content/uploads/2021/08/IMG_0208.jpeg?fit=680%2C604&ssl=1"
+    },
+    {
+      "id": 13,
+      "userId": 3,
+      "breedId": 7,
+      "name": "Hen Solo",
+      "dateHatched": "3/27/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://www.myerspoultry.com/files/products/93/images/thumb/thumb_2BA.jpg"
+    },
+    {
+      "id": 14,
+      "userId": 3,
+      "breedId": 8,
+      "name": "Robot Chicken",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://2.bp.blogspot.com/-OlwIV1Z2kNQ/WO0zfSPp1iI/AAAAAAAAAY0/sNX1i2DuXp0xH4YlWzRA18At-TIJ7o0WgCLcB/s1600/Speckled-Susses-Pullet%255B1%255D.jpg"
+    },
+    {
+      "id": 15,
+      "userId": 3,
+      "breedId": 8,
+      "name": "Burrito",
+      "dateHatched": "4/7/2023",
+      "layingStatusesId": 2,
+      "notes": "",
+      "henPhoto": "https://2.bp.blogspot.com/-OlwIV1Z2kNQ/WO0zfSPp1iI/AAAAAAAAAY0/sNX1i2DuXp0xH4YlWzRA18At-TIJ7o0WgCLcB/s1600/Speckled-Susses-Pullet%255B1%255D.jpg"
+    },
+    {
+      "id": 16,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Dorothy",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": "https://i.imgur.com/RujbUni.jpg"
+    },
+    {
+      "id": 17,
+      "userId": 3,
+      "breedId": 1,
+      "name": "Blanche",
+      "dateHatched": "7/10/2022",
+      "layingStatusesId": 1,
+      "notes": "",
+      "henPhoto": "https://i.imgur.com/RujbUni.jpg"
+    }
+  ],
+  "breeds": [
+    {
+      "id": 1,
+      "name": "Easter Egger"
+    },
+    {
+      "id": 2,
+      "name": "Golden Cuckoo Marans"
+    },
+    {
+      "id": 3,
+      "name": "Black Copper Marans"
+    },
+    {
+      "id": 4,
+      "name": "Silver Laced Wyandotte"
+    },
+    {
+      "id": 5,
+      "name": "Gold Laced Wyandotte"
+    },
+    {
+      "id": 6,
+      "name": "Green Queen"
+    },
+    {
+      "id": 7,
+      "name": "Black Australorp"
+    },
+    {
+      "id": 8,
+      "name": "Speckled Sussex"
+    },
+    {
+      "id": 9,
+      "name": "Barnevelder"
+    }
+  ],
+  "layingStatuses": [
+    {
+      "id": 1,
+      "status": "Laying"
+    },
+    {
+      "id": 2,
+      "status": "Not Laying"
+    }
+  ]
+}
